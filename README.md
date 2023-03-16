@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFA07A&height=300&section=header&text=Hyeonju%20Cha&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=300&section=header&text=Hyeonju%20Cha&fontSize=90&fontColor=ffffff)
 
 ### Hi there 👋
 
